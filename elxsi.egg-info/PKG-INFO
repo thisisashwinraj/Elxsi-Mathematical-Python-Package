@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: elxsi
+Version: 1.0.3
+Summary: Python package for advanced mathematical operations, distributions and visualizations
+Home-page: UNKNOWN
+Author: Ashwin Raj
+Author-email: rajashwin733@gmail.com
+License: GNU General Public License v3.0
+Description: #Elxsi
+        
+        Elxsi is a python package for advanced mathematical operations, distributions and visualizations distributed under the GNU General Public license.
+Platform: UNKNOWN
+Description-Content-Type: text/markdown

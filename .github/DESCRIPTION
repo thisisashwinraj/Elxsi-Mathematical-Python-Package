@@ -1,0 +1,9 @@
+# .github
+This subdirectory contains templates for creating issues and sending pull requests.
+
+# Files and Folders:
+- **CODEOWNERS**: This file triggers a review requests when PRs touch particular files.
+- **CODE_OF_CONDUCT**: The content of this file defines standards for how to engage in the developer community.
+- **ISSUE_TEMPLATE**: This folder contains the template to report bugs, improve documentation and for requesting features.
+- **PULL_REQUEST**: This folder contains the template for sending a pull request with a detailed checklist.
+- **LABELER.YML**: This file triages PRs based on the paths that are modified in the PR. Key is name of the label.

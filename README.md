@@ -9,7 +9,7 @@
 
 Elxsi is a python package for performing advanced mathematical operations, distributions and visualizations and is licensed under the [GNU General Public License v3.0](https://github.com/ashwinraj-in/Elxsi/blob/main/LICENSE). It includes modules for calculating mean, standard deviation & probability distribution function of various statistical distributions. The latest released stable version of elxsi is 1.0.4.
 
-The project was started in 2021 by [Ashwin Raj](https://www.github.com/ashwinraj-in) as an academic project. The resources for the package and the pull requests are maintained and reviewed by a team of volunteers from workspace. Learn more about elxsi v1.0.4 [here](https://pypi.org/project/elxsi/)
+This project was started in 2021 by [Ashwin Raj](https://www.github.com/ashwinraj-in) as an academic project. The resources for the package and the pull requests are maintained and reviewed by a team of volunteers from workspace. Learn more about elxsi v1.0.4 [here](https://pypi.org/project/elxsi/)
 
 
 # Subdirectories and Constraints

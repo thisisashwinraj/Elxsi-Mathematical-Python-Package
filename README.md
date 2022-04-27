@@ -50,7 +50,7 @@ Once the package is succesfully installed, a wide array of different statistical
 ![pip install elxsi](https://github.com/thisisashwinraj/Elxsi-Mathematical-Python-Package/blob/main/doc/gifs/elxsiReadmeGIF.gif)
 
 ### Package Development
-Elxsi development takes place on [GitHub](https://github.com/WorkspaceDevelopers/elxsi). Please submit any bugs that you may encounter to the issue tracker with a reproducible example demonstrating the problem, in accordance with the issue template present in /.github folder.
+Elxsi development takes place on [GitHub](https://github.com/thisisashwinraj/Elxsi-Mathematical-Python-Package). Please submit any bugs that you may encounter to the issue tracker with a reproducible example demonstrating the problem, in accordance with the issue template present in /.github folder.
     
     ├── LICENSE                   // GNU General Public License v3.0
     ├── pyproject.toml

@@ -35,7 +35,7 @@ To create the raw source distribution file run the following command:
 ```
 python setup.py sdist bdist_wheel
 ```
-Running this file creates the subdirectories: dist and elxsi.egg-info. An executable installer can also be created for installing the package in an MS Windows environment. 
+Running this file creates the subdirectories: dist and elxsi.egg-info. An executable installer can also be created for installing the package in a Microsoft Windows environment. 
 To create an executable installer, run the command:
 ```
 python setup.py bdist_wininst

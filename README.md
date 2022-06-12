@@ -23,7 +23,7 @@ Elxsi runs on all operating systems, is quick to install, and is available for f
 ### Files and Folders
 The files and folders used in the package are as follows:
 - [dist](https://github.com/thisisashwinraj/Elxsi-Mathematical-Python-Package/tree/main/dist): This directory contains the source distribution for the package, that needs to be uploaded to PyPi.
-- [elxsi.egg-info](https://github.com/thisisashwinraj/Elxsi-Mathematical-Python-Package/tree/main/elxsi.egg-info): This directory contains the package's metadata including PKG-INGFO and the sources.
+- [elxsi.egg-info](https://github.com/thisisashwinraj/Elxsi-Mathematical-Python-Package/tree/main/elxsi.egg-info): This directory contains the package's metadata, including a PKG-INGFO, and the sources.
 - [elxsi](https://github.com/thisisashwinraj/Elxsi-Mathematical-Python-Package/tree/main/elxsi): This directory contains the code for performing operations and visualizing statistical distributions.
 
 ### Build Commands

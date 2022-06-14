@@ -1,18 +1,11 @@
 # Elxsi - Python Package
-![](https://img.shields.io/pypi/pyversions/elxsi?color=yellow)
-![](https://img.shields.io/github/license/WorkspaceDevelopers/elxsi) 
-![](https://img.shields.io/bundlephobia/min/python)
-![](https://img.shields.io/pypi/v/elxsi?color=magenta)
-![](https://img.shields.io/pypi/wheel/elxsi)
-![](https://img.shields.io/librariesio/sourcerank/Pypi/elxsi)
-![](https://img.shields.io/github/issues-closed/WorkspaceDevelopers/elxsi?color=yellow)
 
 Elxsi is a python package for performing advanced mathematical operations, distributions, and visualizations, and is licensed under the [GNU General Public License v3.0](https://github.com/thisisashwinraj/Elxsi-Mathematical-Python-Package/blob/main/LICENSE). It includes modules for calculating mean, standard deviation & probability distribution function of various statistical distributions. The latest released stable version of elxsi is v1.0.4
 
 This project was started in 2021 by [Ashwin Raj](https://www.github.com/thisisashwinraj), as an academic project. The resources for this package, and the pull requests are maintained, and reviewed by a team of volunteers from Workspace. Learn more about elxsi v1.0.4 [here](https://pypi.org/project/elxsi/)
 
 
-# Subdirectories and Constraints
+# SubDirectories and Constraints
 ### Dependencies
 - Python (>= 3.9.0)
 - NumPy (>=1.20.3)
@@ -26,7 +19,7 @@ The files and folders used in the package are as follows:
 - [elxsi.egg-info](https://github.com/thisisashwinraj/Elxsi-Mathematical-Python-Package/tree/main/elxsi.egg-info): This directory contains the package's metadata, including a PKG-INGFO, and the sources.
 - [elxsi](https://github.com/thisisashwinraj/Elxsi-Mathematical-Python-Package/tree/main/elxsi): This directory contains the code for performing operations and visualizing statistical distributions.
 
-### Build Commands
+# Package Build Commands
 To install the elxsi python package, just run the following command to create an egg file (python distribution format)
 ```
 python setup.py bdist_egg
@@ -49,7 +42,6 @@ Once this package has succesfully installed, a large array of different statisti
 
 ![pip install elxsi](https://github.com/thisisashwinraj/Elxsi-Mathematical-Python-Package/blob/main/doc/gifs/elxsiReadmeGIF.gif)
 
-### Package Development
 Elxsi development takes place on [GitHub](https://github.com/thisisashwinraj/Elxsi-Mathematical-Python-Package). Please submit any bugs that you may encounter to the issue tracker with a reproducible example demonstrating the problem, in accordance with the issue templates present in ~/github folder.
     
     ├── LICENSE                   // GNU General Public License v3.0
@@ -77,7 +69,7 @@ Before cloning the repository, make sure to navigate to the working subdirectory
 ### Edit the Source Code and Make Desired Changes
 To be able to make changes to the source, you may need to install and use a python IDE such as PyCharm, Microsoft VisualStudio and/or any other python interpreter. You will also require a Jupyter notebook  for working with the code snippets. The movies posters are fetched using the [TMDb's API](https://developers.themoviedb.org/3). You may create your own API by logging into TMDb developers API-3. Ensure that you are strictly following the basic coding standards while making the desired change
 
-### Submitting a Pull Request
+### Submitting a Pull Request and Merge the Changes
 Before opening a Pull Request, it is recommended to have a look at the full contributing page to make sure your code complies with all the pull request guidelines. Please ensure that you satisfy the [~/checklist](https://github.com/thisisashwinraj/VerticalX-Recommendation-System/tree/main/Template%20Files/PULL_REQUEST_TEMPLATE) before submitting your PR.
 
 Navigate to this subdirectory & check status of all files that were altered (red) by running the below code in Git Bash:

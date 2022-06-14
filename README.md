@@ -27,21 +27,21 @@ The files and folders used in the package are as follows:
 - [elxsi](https://github.com/thisisashwinraj/Elxsi-Mathematical-Python-Package/tree/main/elxsi): This directory contains the code for performing operations and visualizing statistical distributions.
 
 ### Build Commands
-To easily install the elxsi python package, run the following command, to create an egg file (python distribution format):
+To easily install the elxsi python package, run the following command to create an egg file(python distribution format):
 ```
 python setup.py bdist_egg
 ```
-To create a raw source distribution file for this package, run the following command in the command prompt or terminal:
+To create raw source distribution file for the package, run the following command in the command prompt or terminal:
 ```
 python setup.py sdist bdist_wheel
 ```
-Running this file creates the following subdirectories: dist and elxsi.egg-info. Executable installer can also be created for installing the package in a Microsoft Windows environment. 
-To create an executable installer, run this command:
+Running this file creates the following sub-directories: dist, and elxsi.egg-info. Executable installer can also be created for installing the package in the Microsoft Windows environment. 
+To create the executable installer, run this command:
 ```
 python setup.py bdist_wininst
 ```
 # User Installation and Source Code
-Latest stable release of elxsi can either be downloaded from the repo, or be simply installed from PyPi, using the code:
+Latest stable release of elxsi can either be downloaded from the repo or be simply installed from PyPi, using the code:
 ```
 pip install elxsi
 ```
@@ -92,7 +92,7 @@ git add .            // adds every single file that shows up red when running gi
 git add <filename>   // type in the particular file that you would like to add to the PR
 ```
 
-Commit all the changes that you've made & describe in brief the changes that you have made, using this command:
+Commit all the changes that you've made and describe in brief the changes that you have made, using the command:
 ```
 git commit -m "<commit_message>"
 ```
@@ -103,4 +103,4 @@ git push origin main
 All pull requests are reviewed on a monthly rolling basis. Your understanding is appreciate during this review process.
 
 # License and Project Status
-The package and other resources are distributed under GNU General Public License v3.0. The package is compatible with all operating systems. The latest released stable version of elxsi is v1.0.4, available to be installed on any local system for general use through pip install from [Pypi](https://pypi.org/project/elxsi/) (and other indexes) using requirement specifiers. Checkout pip documentation v21.1.1 [here](https://pip.pypa.io/en/stable/). All commit-level changes are logged in the changelog.
+This package and other resources are distributed under GNU General Public License v3.0. This package is compatible with all operating systems. The latest released stable version of elxsi is v1.0.4 & is available to be installed on any local system for general use through pip install from [Pypi](https://pypi.org/project/elxsi/) (and other indexes) using requirement specifiers. Checkout pip documentation v21.1.1 [here](https://pip.pypa.io/en/stable/). All commit-level changes are logged in the changelog.

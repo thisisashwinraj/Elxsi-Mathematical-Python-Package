@@ -27,11 +27,11 @@ The files and folders used in the package are as follows:
 - [elxsi](https://github.com/thisisashwinraj/Elxsi-Mathematical-Python-Package/tree/main/elxsi): This directory contains the code for performing operations and visualizing statistical distributions.
 
 ### Build Commands
-To easily install the elxsi python package, run the following command to create an egg file(python distribution format):
+To easily install the elxsi python package run the following command to create an egg file (python distribution format)
 ```
 python setup.py bdist_egg
 ```
-To create raw source distribution file for the package, run the following command in the command prompt or terminal:
+To create raw source distribution file for the package, run the following command in the command prompt/terminal:
 ```
 python setup.py sdist bdist_wheel
 ```

@@ -38,7 +38,7 @@ Latest stable release of elxsi can either be downloaded from the repo or be simp
 ```
 pip install elxsi
 ```
-Once this package has succesfully installed, a large array of different statistical distributions can be imported from the package by specifying the name of the distribution (seprated by a ',') with first letter of each word typed in uppercase
+Once this package has succesfully installed, a large array of different statistical distributions can be imported from the package by specifying the name of the distribution (seprated by a ','), with first letter of each word typed in uppercase
 
 ![pip install elxsi](https://github.com/thisisashwinraj/Elxsi-Mathematical-Python-Package/blob/main/doc/gifs/elxsiReadmeGIF.gif)
 
@@ -91,4 +91,4 @@ git push origin main
 All pull requests are reviewed on a monthly rolling basis. Your understanding is appreciate during this review process.
 
 # License and Project Status
-The package and other resources are distributed under GNU General Public License v3.0. This package is compatible with all operating systems. The latest released stable version of elxsi is v1.0.4 & is available to be installed on any local system for general use through pip installer from [Pypi](https://pypi.org/project/elxsi/) (and other indexes) using requirement specifiers. Checkout the pip documentation v21.1.1 [here](https://pip.pypa.io/en/stable/) for any information regarding the installer. All the  commit-level changes are logged in the ~/changelog.
+The package and other resources are distributed under GNU General Public License v3.0. This package is compatible with all operating systems. The latest released stable version of elxsi is v1.0.4 & is available to be installed on any local system for general use through pip installer from [Pypi](https://pypi.org/project/elxsi/) (and other indexes) using requirement specifiers. Checkout the pip documentation v21.1.1 [here](https://pip.pypa.io/en/stable/) for any information regarding the installer. All changes are logged in the ~/changelog

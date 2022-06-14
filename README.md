@@ -64,13 +64,9 @@ To start contributing to the project, clone the repository into your local syste
 ```
 git clone https://github.com/ashwinraj-in/Kiwi.git
 ```
-Before cloning the repository, make sure to navigate to the working subdirectory of your command line interface and ensure that no folder with same name exists. Other ways to clone the repository includes using a password protected SSH key or by using Git CLI. The changes may additionally be performed by opening this repo using GitHub Desktop
+Before cloning the repository, make sure to navigate to the working subdirectory of your command line interface and ensure that no folder with same name exists. Other ways to clone the repository includes using a password protected SSH key, or by using Git CLI. The changes may additionally be performed by opening this repo using GitHub Desktop
 
-### Edit the Source Code and Make Desired Changes
-To be able to make changes to the source, you may need to install and use a python IDE such as PyCharm, Microsoft VisualStudio and/or any other python interpreter. You will also require a Jupyter notebook  for working with the code snippets. The movies posters are fetched using the [TMDb's API](https://developers.themoviedb.org/3). You may create your own API by logging into TMDb developers API-3. Ensure that you are strictly following the basic coding standards while making the desired change
-
-### Submitting a Pull Request and Merge the Changes
-Before opening a Pull Request, it is recommended to have a look at the full contributing page to make sure your code complies with all the pull request guidelines. Please ensure that you satisfy the [~/checklist](https://github.com/thisisashwinraj/VerticalX-Recommendation-System/tree/main/Template%20Files/PULL_REQUEST_TEMPLATE) before submitting your PR.
+Before opening a Pull Request it is recommended to have a look at the full contributing page to make sure your code complies with all the pull request guidelines. Please ensure that you satisfy the [~/checklist](https://github.com/thisisashwinraj/VerticalX-Recommendation-System/tree/main/Template%20Files/PULL_REQUEST_TEMPLATE) before submitting your PR.
 
 Navigate to this subdirectory & check status of all files that were altered (red) by running the below code in Git Bash:
 ```
@@ -95,4 +91,4 @@ git push origin main
 All pull requests are reviewed on a monthly rolling basis. Your understanding is appreciate during this review process.
 
 # License and Project Status
-The package and all other resources are distributed under GNU General Public License v3.0. This package is compatible with all operating systems. The latest released stable version of elxsi is v1.0.4 & is available to be installed on any local system for general use through pip installer from [Pypi](https://pypi.org/project/elxsi/) (and other indexes) using requirement specifiers. Checkout the pip documentation v21.1.1 [here](https://pip.pypa.io/en/stable/) for any information regarding the installer. All the  commit-level changes are logged in the ~/changelog.
+The package and other resources are distributed under GNU General Public License v3.0. This package is compatible with all operating systems. The latest released stable version of elxsi is v1.0.4 & is available to be installed on any local system for general use through pip installer from [Pypi](https://pypi.org/project/elxsi/) (and other indexes) using requirement specifiers. Checkout the pip documentation v21.1.1 [here](https://pip.pypa.io/en/stable/) for any information regarding the installer. All the  commit-level changes are logged in the ~/changelog.

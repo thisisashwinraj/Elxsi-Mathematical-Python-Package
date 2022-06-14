@@ -1,4 +1,4 @@
-# Elxsi - Python Package
+# Elxsi - Python Package for Statistical Computing
 
 Elxsi is a python package for performing advanced mathematical operations, distributions, and visualizations, and is licensed under the [GNU General Public License v3.0](https://github.com/thisisashwinraj/Elxsi-Mathematical-Python-Package/blob/main/LICENSE). It includes modules for calculating mean, standard deviation & probability distribution function of various statistical distributions. The latest released stable version of elxsi is v1.0.4
 

@@ -64,7 +64,7 @@ To start contributing to the project, clone the repository into your local syste
 ```
 git clone https://github.com/ashwinraj-in/Kiwi.git
 ```
-Before cloning the repository, make sure to navigate to the working subdirectory of your command line interface and ensure that no folder with same name exists. Other ways to clone the repository includes using a password protected SSH key, or by using Git CLI. The changes may additionally be performed by opening this repo using GitHub Desktop
+Before cloning the repository, make sure to navigate to the working subdirectory of your command line interface and ensure that no folder with same name exists. Other ways to clone the repository includes using a password protected SSH key, or by using Git CLI. The changes may additionally be performed by opening this repo, using GitHub Desktop
 
 Before opening a Pull Request it is recommended to have a look at the full contributing page to make sure your code complies with all the pull request guidelines. Please ensure that you satisfy the [~/checklist](https://github.com/thisisashwinraj/VerticalX-Recommendation-System/tree/main/Template%20Files/PULL_REQUEST_TEMPLATE) before submitting your PR.
 

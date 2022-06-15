@@ -5,7 +5,7 @@ Elxsi is a python package for performing advanced mathematical operations, distr
 This project was started in 2021 by [Ashwin Raj](https://www.github.com/thisisashwinraj), as an academic project. The resources for this package, and the pull requests are maintained, and reviewed by a team of volunteers from Workspace. Learn more about elxsi v1.0.4 [here](https://pypi.org/project/elxsi/)
 
 
-# SubDirectories and Constraints
+# SubDirectories and Dependencies
 ### Dependencies
 - Python (>= 3.9.0) Learn more about the Python programming from here, and download the latest version here
 - NumPy (>=1.20.3) Learn about the NumPy package here, and install the package following the guidelines here
@@ -14,12 +14,12 @@ This project was started in 2021 by [Ashwin Raj](https://www.github.com/thisisas
 Elxsi runs on all operating systems, is quick to install, and is available for free use. No version of elxsi supports Python 2.7, and Python 3.4. Elxsi plotting capabiliies requires matplotlib (>= 2.1.1), and seaborn (>= 0.9.0) packages.
 
 ### Files and Folders
-The directories and subdirectories used that are of critical importance to the elxsi python package are as mentioned:
+The directories and subdirectories, used that are of critical importance to the elxsi python package are as mentioned:
 - [dist](https://github.com/thisisashwinraj/Elxsi-Mathematical-Python-Package/tree/main/dist): This subdirectory contains the entire source distribution for the package, that needs to be uploaded to PyPi
 - [elxsi.egg-info](https://github.com/thisisashwinraj/Elxsi-Mathematical-Python-Package/tree/main/elxsi.egg-info): This subdirectory contains the entire package's metadata, including a PKG-INGFO, and the sources
 - [elxsi](https://github.com/thisisashwinraj/Elxsi-Mathematical-Python-Package/tree/main/elxsi): This subdirectory contains the entire code for performing operations and visualizing statistical distributions
 
-# Package Build Commands
+# Python Package Build Commands
 To install the elxsi python package, just run the following command to create an egg file (python distribution format)
 ```
 python setup.py bdist_egg

@@ -62,11 +62,11 @@ Elxsi development takes place on [GitHub](https://github.com/thisisashwinraj/Elx
 # Contribution Guidelines
 To start contributing to the project, clone the repository into your local system subdirectory using the below git code:
 ```
-git clone https://github.com/ashwinraj-in/Kiwi.git
+git clone https://github.com/thisisashwinraj/Elxsi-Mathematical-Python-Package.git
 ```
 Before cloning the repository, make sure to navigate to the working subdirectory of your command line interface and ensure that no folder with same name exists. Other ways to clone the repository includes using a password protected SSH key, or by using Git CLI. The changes may additionally be performed by opening this repo, using GitHub Desktop
 
-Before opening a Pull Request it is recommended to have a look at the full contributing page to make sure your code complies with all the pull request guidelines. Please ensure that you satisfy the [~/checklist](https://github.com/thisisashwinraj/VerticalX-Recommendation-System/tree/main/Template%20Files/PULL_REQUEST_TEMPLATE) before submitting your PR.
+Before opening a Pull Request it is recommended to have a look at the full contributing page to make sure your code complies with all the pull request guidelines. Please ensure that you satisfy the [~/checklist](https://github.com/thisisashwinraj/Elxsi-Mathematical-Python-Package/tree/main/Template%20Files/PULL_REQUEST_TEMPLATE) before submitting your PR.
 
 Navigate to this subdirectory & check status of all files that were altered (red) by running the below code in Git Bash:
 ```

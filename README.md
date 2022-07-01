@@ -11,7 +11,7 @@ This project was started in 2021 by [Ashwin Raj](https://www.github.com/thisisas
 - NumPy (>=1.20.3) - Learn about the NumPy package here, and install the package following the guidelines here
 
 **Note:**
-Elxsi runs on all operating systems, is quick to install, & is available for untied use. No version of Elxsi supports Python 2.7, and Python 3.4. Elxsi's plotting capabiliies requires matplotlib (>= 2.1.1) and seaborn (>= 0.9.0) packages.
+Elxsi runs on all operating systems, is quick to install, and is available for free use. No version of Elxsi supports Python 2.7, and Python 3.4. Elxsi's plotting capabiliies requires matplotlib (>= 2.1.1) and seaborn (>= 0.9.0) packages.
 
 ### Files and Folders
 The directories, and subdirectories used, that are of critical importance to the Elxsi python package are as mentioned:
@@ -88,7 +88,7 @@ Push all of your updated work into this GitHub repo in the form of a Pull Reques
 ```
 git push origin main
 ```
-All Pull Requests are reviewed on a monthly rolling basis. Your understanding is appreciate during this review process
+All Pull Requests are reviewed on a monthly rolling basis. Your understanding is appreciate during this review process.
 
 # License and Project Status
 The package, and other resources are distributed under the [GNU General Public License 3](https://github.com/thisisashwinraj/Elxsi-Mathematical-Python-Package/blob/main/LICENSE). This package is compatible with all operating systems. The latest released stable version of elxsi is v1.0.4 & is available to be installed on any local system for general use through pip installer from [PyPi](https://pypi.org/project/elxsi/) (and other indexes), using requirement specifiers. Checkout the pip documentation v21.1.1 [here](https://pip.pypa.io/en/stable/) for any information regarding the installer. The changes are logged in the /changelog

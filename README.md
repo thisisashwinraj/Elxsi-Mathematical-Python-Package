@@ -14,7 +14,7 @@ This project was started in 2021 by [Ashwin Raj](https://www.github.com/thisisas
 Elxsi runs on all operating systems, is quick to install, and is available for free use. No version of elxsi supports Python 2.7, and Python 3.4. Elxsi plotting capabiliies requires matplotlib (>= 2.1.1), and seaborn (>= 0.9.0) packages.
 
 ### Files and Folders
-The directories and subdirectories, used that are of critical importance to the Elxsi python package are as mentioned:
+The directories, and subdirectories used, that are of critical importance to the Elxsi python package are as mentioned:
 - [dist](https://github.com/thisisashwinraj/Elxsi-Mathematical-Python-Package/tree/main/dist): This sub-directory contains the entire source distribution for the package that needs to be uploaded to PyPi
 - [elxsi.egg-info](https://github.com/thisisashwinraj/Elxsi-Mathematical-Python-Package/tree/main/elxsi.egg-info): This subdirectory contains the entire package's metadata, including a PKG-INGFO, and the sources
 - [elxsi](https://github.com/thisisashwinraj/Elxsi-Mathematical-Python-Package/tree/main/elxsi): This subdirectory contains the entire code for performing operations and visualizing statistical distributions

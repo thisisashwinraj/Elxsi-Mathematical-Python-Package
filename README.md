@@ -20,11 +20,11 @@ The directories, and subdirectories used, that are of critical importance to the
 - [elxsi](https://github.com/thisisashwinraj/Elxsi-Mathematical-Python-Package/tree/main/elxsi): This subdirectory contains the entire code for performing operations and visualizing statistical distributions
 
 # Python Package Build Commands
-To install the elxsi python package, just run the following command to create an egg file (python distribution format)
+To install the elxsi python package, just run the following command to create an .egg file (python distribution format):
 ```
 python setup.py bdist_egg
 ```
-To create raw source distribution file for this package, run the following command in the command prompt/terminal:
+To create raw source distribution file for this package, run the following command in your command prompt/terminal:
 ```
 python setup.py sdist bdist_wheel
 ```
@@ -42,7 +42,7 @@ Once this package has succesfully installed, a large array of different statisti
 
 ![pip install elxsi](https://github.com/thisisashwinraj/Elxsi-Mathematical-Python-Package/blob/main/doc/gifs/elxsiReadmeGIF.gif)
 
-Elxsi development takes place on [GitHub](https://github.com/thisisashwinraj/Elxsi-Mathematical-Python-Package). Please submit any bugs that you may encounter to the issue tracker with a reproducible example demonstrating the problem, in accordance with the issue templates present in [~/github](https://github.com/thisisashwinraj/Elxsi-Mathematical-Python-Package/tree/main/.github) folder.
+Elxsi development takes place on [GitHub](https://github.com/thisisashwinraj/Elxsi-Mathematical-Python-Package). Please submit any bugs, that you may encounter to the issue tracker with a reproducible example demonstrating the problem, in accordance with the issue templates present in [~/github](https://github.com/thisisashwinraj/Elxsi-Mathematical-Python-Package/tree/main/.github) folder.
     
     ├── LICENSE                   // GNU General Public License v3.0
     ├── pyproject.toml
@@ -68,7 +68,7 @@ Before cloning the repository, make sure to navigate to the working subdirectory
 
 Before opening a Pull Request it is recommended to have a look at the full contributing page to make sure your code complies with all the pull request guidelines. Please ensure that you satisfy the [~/checklist](https://github.com/thisisashwinraj/Elxsi-Mathematical-Python-Package/tree/main/Template%20Files/PULL_REQUEST_TEMPLATE) before submitting your PR.
 
-Navigate to this subdirectory & check status of all files that were altered (red) by running the below code in Git Bash:
+Navigate to this sub-directory & check status of all files that were altered (red) by running the below code in GitBash:
 ```
 git status
 ```
@@ -88,7 +88,7 @@ Push all of your updated work into this GitHub repo in the form of a Pull Reques
 ```
 git push origin main
 ```
-All pull requests are reviewed on a monthly rolling basis. Your understanding is appreciate during this review process.
+All Pull Requests are reviewed on a monthly rolling basis. Your understanding is appreciate during this review process
 
 # License and Project Status
 The package, and other resources are distributed under the [GNU General Public License 3](https://github.com/thisisashwinraj/Elxsi-Mathematical-Python-Package/blob/main/LICENSE). This package is compatible with all operating systems. The latest released stable version of elxsi is v1.0.4 & is available to be installed on any local system for general use through pip installer from [PyPi](https://pypi.org/project/elxsi/) (and other indexes), using requirement specifiers. Checkout the pip documentation v21.1.1 [here](https://pip.pypa.io/en/stable/) for any information regarding the installer. The changes are logged in the /changelog

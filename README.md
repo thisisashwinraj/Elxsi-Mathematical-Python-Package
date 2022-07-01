@@ -7,11 +7,11 @@ This project was started in 2021 by [Ashwin Raj](https://www.github.com/thisisas
 
 # SubDirectories and Dependencies
 ### Dependencies
-- Python (>= 3.9.0) - Learn more about the Python programming from here, and download the latest version here
+- Python (>= 3.9.0) - Learn more about the python programming from here, and download the latest version here
 - NumPy (>=1.20.3) - Learn about the NumPy package here, and install the package following the guidelines here
 
 **Note:**
-Elxsi runs on all operating systems, is quick to install and is available for untied use. No version of Elxsi supports Python 2.7, and Python 3.4. Elxsi's plotting capabiliies requires matplotlib (>= 2.1.1) and seaborn (>= 0.9.0) packages.
+Elxsi runs on all operating systems, is quick to install, & is available for untied use. No version of Elxsi supports Python 2.7, and Python 3.4. Elxsi's plotting capabiliies requires matplotlib (>= 2.1.1) and seaborn (>= 0.9.0) packages.
 
 ### Files and Folders
 The directories, and subdirectories used, that are of critical importance to the Elxsi python package are as mentioned:
@@ -42,7 +42,7 @@ Once this package has succesfully installed, a large array of different statisti
 
 ![pip install elxsi](https://github.com/thisisashwinraj/Elxsi-Mathematical-Python-Package/blob/main/doc/gifs/elxsiReadmeGIF.gif)
 
-Elxsi development takes place on [GitHub](https://github.com/thisisashwinraj/Elxsi-Mathematical-Python-Package). Please submit any bugs that you may encounter to the issue tracker with a reproducible example demonstrating the problem, in accordance with the issue templates present in ~/github folder.
+Elxsi development takes place on [GitHub](https://github.com/thisisashwinraj/Elxsi-Mathematical-Python-Package). Please submit any bugs that you may encounter to the issue tracker with a reproducible example demonstrating the problem, in accordance with the issue templates present in [~/github](https://github.com/thisisashwinraj/Elxsi-Mathematical-Python-Package/tree/main/.github) folder.
     
     ├── LICENSE                   // GNU General Public License v3.0
     ├── pyproject.toml

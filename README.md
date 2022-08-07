@@ -7,7 +7,7 @@ This project was started in 2021 by [Ashwin Raj](https://www.github.com/thisisas
 
 # SubDirectories and Dependencies
 ### Dependencies
-- Python (>= 3.9.0) - Learn more about the python programming from [here](https://www.python.org/), and download the latest version here
+- Python (>= 3.9.0) - Learn more about the python programming from [here](https://www.python.org/), and download the latest version [here](https://www.python.org/downloads/)
 - NumPy (>=1.20.3) - Learn about the NumPy package [here](https://numpy.org/), and install the package following the guidelines here
 
 **Note:**

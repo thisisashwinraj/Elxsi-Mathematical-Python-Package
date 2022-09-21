@@ -11,7 +11,7 @@ This project was started in 2021 by [Ashwin Raj](https://www.github.com/thisisas
 - NumPy (>=1.20.3) - Learn about the NumPy package [here](https://numpy.org/), and install the package following the guidelines [here](https://numpy.org/install/)
 
 **Note:**
-Elxsi runs on all operating systems, is quick to install, and is available for free use. No versions of Elxsi supports Python 2.7, and Python 3.4. Elxsi's plotting capabiliies requires matplotlib (>= 2.1.1) and seaborn (>= 0.9.0) packages.
+Elxsi runs on all operating systems, is quick to install, and is available for free use. No versions of Elxsi supports Python 2.7, and Python 3.4. Elxsi's plotting capabiliies requires [matplotlib](https://matplotlib.org/) (>= 2.1.1) and seaborn (>= 0.9.0) packages.
 
 ### Files and Folders
 The directories, and subdirectories used, that are of critical importance to the Elxsi python package are as mentioned:

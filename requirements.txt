@@ -36,6 +36,7 @@ jupyterlab-server==1.2.0
 kiwisolver==1.3.1
 Mako==1.0.7
 MarkupSafe==1.0
+mathematica==1.0.1
 matplotlib==3.4.1
 mistune==0.8.4
 nbconvert==5.6.1
